@@ -13,16 +13,16 @@
     <td align="center">
       <a href="https://github.com/Garubieru">
         <img src="https://avatars.githubusercontent.com/u/69393695?v=4" height="auto" width="100" style="border-radius: 50%;" alt="Gabriel Morishita"/>
-        <br /><sub><b>Gabriel Morishita</b></sub></a><br />
+        <br /><sub><b>Gabriel Morishita (32048661)</b></sub></a><br />
     </td>
     <td align="center">
       <a href="https://github.com/bruno-schenberg"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89359910?v=4" width="100px;" alt=""/>
-        <br /><sub><b>Bruno Schenberg</b></sub></a><br />
+        <br /><sub><b>Bruno Schenberg (32041292)</b></sub></a><br />
     </td>
     <td align="center">
       <a href="https://github.com/32086083">
         <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89360519?v=4" width="100px;" alt=""/>
-        <br /><sub><b>Luiz Szajnbok</b></sub></a><br />
+        <br /><sub><b>Luiz Szajnbok (32086083)</b></sub></a><br />
     </td>
   </tr>
 </table>
