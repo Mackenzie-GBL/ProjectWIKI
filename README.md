@@ -33,7 +33,7 @@
 
 ## 📚 Escopo
 
-- O projeto será uma **plataforma(WEB) agregadora e "organizadora" de receitas pelo mundo**. Nele, o usuário poderá **salvar, enfileirar e favoritar receitas pelo globo**. Além do mais, o usuário tem a possibilidade de salvar ingredientes que possui. Desse modo, o aplicativo irá sugerir e listar receitas de acordo com a maior porcentagem de ingredientes que o usuário possui em sua bancada.
+- O projeto será uma **plataforma(WEB) agregadora e "organizadora" de receitas pelo mundo**. Nele, o usuário poderá **salvar, enfileirar e favoritar receitas pelo globo**. Além do mais, o usuário tem a possibilidade de salvar ingredientes que possui em sua bancada. Desse modo, o aplicativo irá sugerir e listar receitas de acordo com a maior porcentagem de ingredientes que o usuário possui em sua bancada.
 
 ## ✔️ Solução
 
