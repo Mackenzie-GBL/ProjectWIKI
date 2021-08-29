@@ -43,3 +43,6 @@
 
 - ✅ Outrossim, muitas vezes um chefe de cozinha possui uma _quantidade x_ de alimentos para o cardapio do dia e algumas vezes um alimento pode faltar durante a entrega do fornecedor seja por motivos de indisponibilidade ou até não atendimento do padrão de qualidade para o consumo dos clientes do restaurante. Com nossa solução buscaremos ajudar o chefe do restaurante a otimizar o uso de alimentos de forma que consigo montar o cardápio do dia evitando ao máximo que algum alimento seja desperdiçado.
 
+## 📈 Diagrama de Casos de Uso
+
+<img src="https://i.imgur.com/zxW7yAk.png" alt="Diagrama de Casos de Uso" align="center" />
