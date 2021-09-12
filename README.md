@@ -1,7 +1,7 @@
 
 
 <h1 align="center">📝 Wiki do Projeto</h1>
-<h3 align="center">🥞 Plataforma de receitas - (Nome ainda indefinido)</h3>
+<h3 align="center">🥞 Plataforma de receitas - Chefee</h3>
 
 ## 👨‍💼 Coordenador
 
