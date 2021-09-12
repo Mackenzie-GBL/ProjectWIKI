@@ -46,3 +46,10 @@
 ## 📈 Diagrama de Casos de Uso
 
 <img src="https://i.imgur.com/zxW7yAk.png" alt="Diagrama de Casos de Uso" align="center" />
+
+## 🖌️ Design
+<div style="display: flex;">
+  <img src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png" alt="Figma Design Link" width=50 height=50 align="center" />
+  <a href="https://www.figma.com/file/Y0l6GzNicTDh401Vh8KAmY/Chefee">Design no figma</a>
+</div>
+
