@@ -53,7 +53,7 @@
   <a href="https://www.figma.com/file/Y0l6GzNicTDh401Vh8KAmY/Chefee">Design no figma</a>
 </div>
 
-## Diagrama de Classes de Domínio
+## 📊 Diagrama de Classes de Domínio
 
 <img src="https://i.imgur.com/RWLid3u.png" alt="Diagrama de Classes de Dominínio" align="center" />
 
