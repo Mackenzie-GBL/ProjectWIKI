@@ -45,7 +45,7 @@
 
 ## 📈 Diagrama de Casos de Uso
 
-<img src="https://i.imgur.com/PY35x47.png" alt="Diagrama de Casos de Uso" align="center" />
+<img src="https://i.imgur.com/i2FHVsb.png" alt="Diagrama de Casos de Uso" align="center" />
 
 ## 🖌️ Design
 <div style="display: flex;">
