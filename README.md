@@ -57,3 +57,7 @@
 
 <img src="https://i.imgur.com/RWLid3u.png" alt="Diagrama de Classes de Dominínio" align="center" />
 
+## ➡️ Diagrama de Sequência
+
+<img src="https://i.imgur.com/dhgWgIe.png" alt="Diagrama de Sequência" align="center" />
+
