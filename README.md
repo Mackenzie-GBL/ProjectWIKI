@@ -55,7 +55,7 @@
 
 ## 📊 Diagrama de Classes de Domínio
 
-<img src="https://i.imgur.com/zkqMh1m.png" alt="Diagrama de Classes de Dominínio" align="center" />
+<img src="https://i.imgur.com/QqasByG.png" alt="Diagrama de Classes de Dominínio" align="center" />
 
 ## ➡️ Diagrama de Sequência
 
