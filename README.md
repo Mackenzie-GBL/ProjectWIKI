@@ -59,5 +59,5 @@
 
 ## ➡️ Diagrama de Sequência
 
-<img src="https://i.imgur.com/dhgWgIe.png" alt="Diagrama de Sequência" align="center" />
+<img src="https://i.imgur.com/brzjjwI.png" alt="Diagrama de Sequência" align="center" />
 
