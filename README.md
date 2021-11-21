@@ -57,8 +57,15 @@
 
 <img src="https://i.imgur.com/EUu0H2K.png" alt="Diagrama de Classes de Dominínio" align="center" />
 
+## ➡️ Diagrama de Sequência Simples
+
+<img src="https://i.imgur.com/wwtIThk.png" alt="Diagrama de Sequência Simples 1" align="center" />
+<img src="https://i.imgur.com/3m1oaNu.png" alt="Diagrama de Sequência Simples 2" align="center" />
+<img src="https://i.imgur.com/B7k3dx9.png" alt="Diagrama de Sequência Simples 3" align="center" />
+
 ## ➡️ Diagrama de Sequência Detalhado
 
-<img src="https://i.imgur.com/qDHtmwg.png" alt="Diagrama de Sequência" align="center" />
-<img src="https://i.imgur.com/TmecQ0i.png" alt="Diagrama de Sequência" align="center" />
+<img src="https://i.imgur.com/lAdeM5S.png" alt="Diagrama de Sequência Detalhado 1" align="center" />
+<img src="https://i.imgur.com/QglCJTp.png" alt="Diagrama de Sequência Detalhado 1" align="center" />
+<img src="https://i.imgur.com/TmecQ0i.png" alt="Diagrama de Sequência Detalhado 3" align="center" />
 
