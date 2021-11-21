@@ -53,11 +53,11 @@
   <a href="https://www.figma.com/file/Y0l6GzNicTDh401Vh8KAmY/Chefee">Design no figma</a>
 </div>
 
-## 📊 Diagrama de Classes de Domínio
+## 📊 Diagrama de Classes de Projeto
 
 <img src="https://i.imgur.com/EUu0H2K.png" alt="Diagrama de Classes de Dominínio" align="center" />
 
-## ➡️ Diagrama de Sequência
+## ➡️ Diagrama de Sequência Detalhado
 
 <img src="https://i.imgur.com/qDHtmwg.png" alt="Diagrama de Sequência" align="center" />
 <img src="https://i.imgur.com/TmecQ0i.png" alt="Diagrama de Sequência" align="center" />
