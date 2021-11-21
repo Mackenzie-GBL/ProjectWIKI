@@ -55,17 +55,19 @@
 
 ## 📊 Diagrama de Classes de Projeto
 
-<img src="https://i.imgur.com/EUu0H2K.png" alt="Diagrama de Classes de Dominínio" align="center" />
+<img src="https://i.imgur.com/tED5IZz.png" alt="Diagrama de Classes de Dominínio" align="center" />
 
 ## ➡️ Diagrama de Sequência Simples
 
 <img src="https://i.imgur.com/wwtIThk.png" alt="Diagrama de Sequência Simples 1" align="center" />
 <img src="https://i.imgur.com/3m1oaNu.png" alt="Diagrama de Sequência Simples 2" align="center" />
 <img src="https://i.imgur.com/B7k3dx9.png" alt="Diagrama de Sequência Simples 3" align="center" />
+<img src="https://i.imgur.com/cxjQ91M.png" alt="Diagrama de Sequência Simples 4" align="center" />
 
 ## ➡️ Diagrama de Sequência Detalhado
 
 <img src="https://i.imgur.com/lAdeM5S.png" alt="Diagrama de Sequência Detalhado 1" align="center" />
-<img src="https://i.imgur.com/QglCJTp.png" alt="Diagrama de Sequência Detalhado 1" align="center" />
+<img src="https://i.imgur.com/QglCJTp.png" alt="Diagrama de Sequência Detalhado 2" align="center" />
 <img src="https://i.imgur.com/TmecQ0i.png" alt="Diagrama de Sequência Detalhado 3" align="center" />
+<img src="https://i.imgur.com/DZ8iqLv.png" alt="Diagrama de Sequência Detalhado 4" align="center" />
 
