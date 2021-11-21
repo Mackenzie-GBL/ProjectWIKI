@@ -55,7 +55,7 @@
 
 ## 📊 Diagrama de Classes de Projeto
 
-<img src="https://i.imgur.com/tED5IZz.png" alt="Diagrama de Classes de Dominínio" align="center" />
+<img src="https://i.imgur.com/DQSbZzs.png" alt="Diagrama de Classes de Dominínio" align="center" />
 
 ## ➡️ Diagrama de Sequência Simples
 
