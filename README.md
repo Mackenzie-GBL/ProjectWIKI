@@ -19,11 +19,6 @@
       <a href="https://github.com/bruno-schenberg"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89359910?v=4" width="100px;" alt=""/>
         <br /><sub><b>Bruno Schenberg (32041292)</b></sub></a><br />
     </td>
-    <td align="center">
-      <a href="https://github.com/32086083">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89360519?v=4" width="100px;" alt=""/>
-        <br /><sub><b>Luiz Szajnbok (32086083)</b></sub></a><br />
-    </td>
   </tr>
 </table>
 
